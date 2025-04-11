@@ -25,9 +25,4 @@ This project is a fun and simple web app that uses AI to generate realistic and 
 
 ---
 
-### 🔧 How to Run Locally
 
-1. Clone the repository:
-```bash
-git clone https://github.com/YOUR-USERNAME/excuse-ai.git
-cd excuse-ai
